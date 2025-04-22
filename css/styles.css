@@ -1,0 +1,17 @@
+/* Mobile menu dropdown full width and background */
+@media (max-width: 767px) {
+    .navbar-collapse {
+      width: 100%;
+      background-color: #f8f8f8;
+    }
+  }
+  
+  /* Tall section styling */
+  .content-box {
+    background-color: #e0e0e0;
+    height: 1000px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #ccc;
+  }
+  
